@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Michigan Cosmology Summer School 2023
-email: huterer@umich.edu
-description: "Michigan Cosmology Summer School 2023"
+title: CosmoPalooza Webinar Series
+email: SatyaGontcho@lbl.gov
+description: "A webinar series showcasing the latest updates from the major large scale cosmological surveys. Freely accessible by anyone, anywhere in the world."
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Johannes Ulf Lange
+  name: Satya Gontcho A Gontcho, PhD
   twitter:
   picture:
 twitter_username:
@@ -88,3 +88,6 @@ defaults:
     values:
       layout: post
       read_time: true
+
+- name: Checkout
+  uses: actions/checkout@v3.5.2
