@@ -88,6 +88,3 @@ defaults:
     values:
       layout: post
       read_time: true
-
-- name: Checkout
-  uses: actions/checkout@v3.5.2
