@@ -4,7 +4,7 @@ paginate: false
 title: "CosmoPalooza Fall 2023"
 sub_title: "October 2-5, 2023"
 image:
-    path: /assets/images/IMG_3912.JPG
+    path: /assets/images/cp.png
     caption: "Image Credit: Satya Gontcho A Gontcho"
 ---
 
