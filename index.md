@@ -4,8 +4,8 @@ paginate: false
 title: "CosmoPalooza Fall 2023"
 sub_title: "October 2-5, 2023"
 image:
-    path: /assets/images/main_image_deep_field_smacs0723-5mb.jpg
-    caption: "Image Credit: NASA, ESA, CSA, and STScI"
+    path: /assets/images/IMG_3912.JPG
+    caption: "Image Credit: Satya Gontcho A Gontcho"
 ---
 
 A webinar series showcasing the latest updates from the major large scale cosmological surveys. Freely accessible by anyone, anywhere in the world.
