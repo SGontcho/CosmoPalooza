@@ -10,6 +10,10 @@ image:
 A webinar series showcasing the latest updates from the major large scale cosmological surveys and collaborations. 
 Freely accessible by anyone, anywhere in the world.
 
+The sessions will take place at XX and XX PDT every morning from Monday to Thursday Oct 2-5, 2023. The webinar links will be made available at a later date.
+
+To receive updates whenever the webinar links are available, please [click her](https://groups.google.com/g/cosmopalooza-news) and join the Google Group.
+
 |Collaboration | Presenters (Institutions) | Recording | Slides                        
 |-----------------------------------|-------------------------------------------------------------------------------|-------|-------
 |[Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT)                                                  | TBD | | 
