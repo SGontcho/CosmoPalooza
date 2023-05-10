@@ -10,7 +10,7 @@ image:
 A webinar series showcasing the latest updates from the major large scale cosmological surveys and collaborations. 
 Freely accessible by anyone, anywhere in the world.
 
-The sessions will take place at XX and XX PDT every morning from Monday to Thursday Oct 2-5, 2023. The webinar links will be made available at a later date.
+The sessions will take place from [7:00 am PDT to 9:30 am PDT (10:00 am to 1:30 pm EDT ; 4:00 pm to 6:30 pm Europe ; 11:00 pm to 1:30 am +1D Korea/Japan)](https://www.timeanddate.com/worldclock/fixedtime.html?p1=791&iso=20231002T07&msg=CosmoPalooza%20Webinar%20%28October%202-5,%202023%29&ah=2&am=30&low=c) every day, Monday to Thursday Oct 2-5, 2023. The webinar links will be made available at a later date.
 
 To receive updates whenever the webinar links are available, please [click her](https://groups.google.com/g/cosmopalooza-news) and join the Google Group.
 
