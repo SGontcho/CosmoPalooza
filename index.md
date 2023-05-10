@@ -15,14 +15,14 @@ The sessions will take place from [7:00 am PDT to 9:30 am PDT (10:00 am to 1:30 
 To receive updates whenever the webinar links are available, please [click here](https://groups.google.com/g/cosmopalooza-news) and join the Google Group.
 
 |Collaboration | Presenters (Institutions) | Recording | Slides                        
-|-----------------------------------|-------------------------------------------------------------------------------|-------|-------
+|-----------------------------------|-----------------------------------------------------------------------------|-----|-------
 |[Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT)                                                  | TBD | | 
 |[Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/) (DESI)                                         | TBD | | 
 |[Dark Energy Survey](https://www.darkenergysurvey.org/) (DES)                                                    | TBD | | 
 |[Euclid](https://www.nasa.gov/mission_pages/euclid/main/index.html)                                              | TBD | | 
 |[Prime Focus Spectrograph](https://pfs.ipmu.jp/) (PFS)                                                           | TBD | | 
 |[Rubin Observatory](https://www.lsst.org/) & [Dark Energy Science Collaboration](https://lsstdesc.org/) (DESC)   | TBD | | 
-|Supernova H0 for the Equation of State (Sh0ES)                                                                   | TBD | | 
+|[Pantheon + Supernova H0 for the Equation of State](https://pantheonplussh0es.github.io) (Sh0ES)                 | TBD | | 
 |TBD                                                                                                              | TBD | | 
 
 
