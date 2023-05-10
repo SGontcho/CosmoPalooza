@@ -4,7 +4,7 @@ paginate: false
 title: "CosmoPalooza Fall 2023"
 sub_title: "October 2-5, 2023"
 image:
-    path: /assets/images/cp.png
+    path: /assets/images/cp2.png
 ---
 
 A webinar series showcasing the latest updates from the major large scale cosmological surveys and collaborations. 
