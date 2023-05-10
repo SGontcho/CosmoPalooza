@@ -19,7 +19,7 @@ To receive updates whenever the webinar links are available, please [click here]
 |[Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT)                                                  | TBD | | 
 |[Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/) (DESI)                                         | TBD | | 
 |[Dark Energy Survey](https://www.darkenergysurvey.org/) (DES)                                                    | TBD | | 
-|Euclid ([NASA](https://www.nasa.gov/mission_pages/euclid/main/index.html), [ESA](https://www.nasa.gov/mission_pages/euclid/main/index.html](https://www.cosmos.esa.int/web/euclid))             | TBD | | 
+|Euclid ([NASA](https://www.nasa.gov/mission_pages/euclid/main/index.html), [ESA](https://www.cosmos.esa.int/web/euclid)) | TBD | | 
 |[Prime Focus Spectrograph](https://pfs.ipmu.jp/) (PFS)                                                           | TBD | | 
 |[Rubin Observatory](https://www.lsst.org/) & [Dark Energy Science Collaboration](https://lsstdesc.org/) (DESC)   | TBD | | 
 |[Pantheon + Supernova H0 for the Equation of State](https://pantheonplussh0es.github.io) (Sh0ES)                 | TBD | | 
